@@ -1,0 +1,5 @@
+I would like to extend my sincere thanks and appreciation to Eng. Moatasem Elsayed for his outstanding teaching throughout the Python course.
+His dedication, expertise, and passion for Python programming have made the learning experience both enjoyable and insightful.
+Eng. Moatasem's ability to explain complex concepts in a clear and understandable manner has been invaluable to me and my fellow engineers.
+We are grateful for his guidance, support, and the knowledge he has shared with us, which will undoubtedly benefit us in our Python journey and beyond.
+Thank you, Eng. Moatasem, for being an exceptional instructor! We are eagerly looking forward to the journey of embedded Linux, and we anticipate many more exciting learning opportunities ahead.
