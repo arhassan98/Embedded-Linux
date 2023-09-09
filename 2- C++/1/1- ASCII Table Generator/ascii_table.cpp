@@ -1,3 +1,6 @@
+#include <iomanip>
+#include <iostream>
+
 /**
  * @file ascii_table.cpp
  * @brief Display an ASCII table with characters from 'A' to 'Z' and 'a' to 'z'
@@ -10,9 +13,6 @@
  * @author Ahmed Reda Hassan
  * @date   09-09-2023
  */
-
-#include <iomanip>
-#include <iostream>
 
 int main() {
   // Display table header

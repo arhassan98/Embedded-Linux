@@ -1,3 +1,5 @@
+#include <iostream>
+
 /**
  * @file multiplication_table.cpp
  * @brief Create a multiplication table for a specified range.
@@ -9,8 +11,6 @@
  * @author Ahmed Reda Hassan
  * @date   09-09-2023
  */
-
-#include <iostream>
 
 int main() {
   int range;

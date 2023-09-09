@@ -1,3 +1,5 @@
+#include <iostream>
+
 /**
  * @file find_maximum.cpp
  * @brief Find the maximum of three input numbers and display it.
@@ -8,8 +10,6 @@
  * @author Ahmed Reda Hassan
  * @date   09-09-2023
  */
-
-#include <iostream>
 
 int main() {
   // Declare variables to store the three input numbers

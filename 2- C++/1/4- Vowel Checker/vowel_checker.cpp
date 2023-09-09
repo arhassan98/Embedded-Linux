@@ -1,3 +1,6 @@
+#include <cctype>
+#include <iostream>
+
 /**
  * @file vowel_checker.cpp
  * @brief Determine if a given letter is a vowel or not.
@@ -9,9 +12,6 @@
  * @author Ahmed Reda Hassan
  * @date   09-09-2023
  */
-
-#include <cctype>
-#include <iostream>
 
 
 int main() {

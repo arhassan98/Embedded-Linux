@@ -1,3 +1,5 @@
+#include <iostream>
+
 /**
  * @file right_angle_triangle.cpp
  * @brief Create a right-angled triangle pattern using asterisks (*).
@@ -9,8 +11,6 @@
  * @author Ahmed Reda Hassan
  * @date   09-09-2023
  */
-
-#include <iostream>
 
 int main() {
   int n;
