@@ -3,15 +3,15 @@
 ## Task 1
 
 ### #1
-- [Python program to count the number 4 in a given list](1/#1/)
-- [Python program to test whether a passed letter is a vowel or not](1/#1/)
-- [Python program to access environment variables](1/#1/)
+- [Python program to count the number 4 in a given list](1/#1/task1.py)
+- [Python program to test whether a passed letter is a vowel or not](1/#1/task1.py)
+- [Python program to access environment variables](1/#1/task1.py)
 
 ### #2
-- [Python program to calculate the area of a circle](1/#2/)
+- [Python program to calculate the area of a circle](1/#2/task2.py)
 
 ### #3
-- [Python program to print the calendar of a given month and year](1/#3/)
+- [Python program to print the calendar of a given month and year](1/#3/task3.py)
 
 ## Task 2
 
